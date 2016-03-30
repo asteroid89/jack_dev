@@ -13,3 +13,5 @@ print("main 0.2")
 
 print("main bugfix 0.1")
 print("main 0.2.1")
+print("main bugfix 0.2")
+print("main 0.2.2")
